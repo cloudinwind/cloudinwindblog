@@ -166,16 +166,24 @@ export default defineUserConfig({
        * @see https://theme-plume.vuejs.press/guide/features/comments/
        */
       comment: {
-        provider: 'Twikoo', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
+        provider: 'Giscus', // "Artalk“ | "Giscus" | "Twikoo" | "Waline"
         comment: true,
-        envId: 'https://twikoo.physnya.top/.netlify/functions/twikoo',
-      //   repo: '',
-      //   repoId: '',
-      //   category: '',
-      //   categoryId: '',
-      //   mapping: 'pathname',
-      //   reactionsEnabled: true,
-      //   inputPosition: 'top',
+        repo: 'cloudinwind/cloudinwindblog', 
+        repoId: 'R_kgDON_xDjg', 
+        category: 'Announcements', 
+        categoryId: 'DIC_kwDON_xDjs4CnXRQ', 
+
+        // provider: 'Twikoo', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
+        // comment: true,
+        // envId: 'https://twikoo.physnya.top/.netlify/functions/twikoo',
+        // repo: '',
+        // repoId: '',
+        // category: '',
+        // categoryId: '',
+        // mapping: 'pathname',
+        // reactionsEnabled: true,
+        // inputPosition: 'top',
+
       },
     },
 
