@@ -5,7 +5,7 @@ import { notes } from './notes/index.ts'
 import { feedPlugin } from '@vuepress/plugin-feed'
 
 export default defineUserConfig({
-  base: '/',
+  base: '/cloudinwindblog/',
   lang: 'zh-CN',
   title: '菲兹克斯喵',
   description: 'This is physnya\'s personal blog & notebook.',
@@ -27,7 +27,7 @@ export default defineUserConfig({
     notes,
     copyright: 'CC-BY-NC-SA-4.0',
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
-    hostname: 'https://physnya.top',
+    hostname: 'https://cloudinwind.github.io/cloudinwindblog',
 
     /* 文档仓库配置，用于 editLink */
     // docsRepo: '',
@@ -191,7 +191,7 @@ export default defineUserConfig({
   }),
   plugins: [
     feedPlugin({
-      hostname: 'https://physnya.top',
+      hostname: 'https://cloudinwind.github.io/cloudinwindblog',
       atom: true,
       count: 100,
       icon: 'images/Physics_nya.jpg',

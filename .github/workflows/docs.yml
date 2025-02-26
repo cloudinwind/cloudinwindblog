@@ -46,8 +46,8 @@ jobs:
           export NODE_OPTIONS="--max-old-space-size=8192"
           pnpm docs:build
       
-      - name: Create CNAME file
-        run: echo "physnya.top" > docs/.vuepress/dist/CNAME
+      # - name: Create CNAME file
+      #   run: echo "physnya.top" > docs/.vuepress/dist/CNAME
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
