@@ -7,8 +7,8 @@ import { feedPlugin } from '@vuepress/plugin-feed'
 export default defineUserConfig({
   base: '/cloudinwindblog/',
   lang: 'zh-CN',
-  title: '菲兹克斯喵',
-  description: 'This is physnya\'s personal blog & notebook.',
+  title: '小风',
+  description: 'This is xiaofeng\'s personal blog & notebook.',
 
   head: [
     // 配置站点图标
