@@ -16,6 +16,9 @@
 - plume.config.ts
 
 
+在 `docs/.vuepress` 添加文件夹 `dist`
+
+
 ## 3. 运行 Github Action
 
 ## 4. 设置 Github Page
