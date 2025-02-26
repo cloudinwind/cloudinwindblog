@@ -25,6 +25,6 @@
 
 **Branch** 设置为
 
-`main /docs`
+`gh-pages /root`
 
 然后点击保存
