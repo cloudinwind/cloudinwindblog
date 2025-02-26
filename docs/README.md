@@ -3,7 +3,7 @@ home: true
 config:
   -
     type: image-text
-    description: 这里是 <a href='https://physnya.top/'>@physnya</a> 的个人 blog，同时存放了一些笔记.
+    description: 这里是 <a href='https://cloudinwind.github.io/cloudinwindblog/'>@cloudinwind</a> 的个人 blog，同时存放了一些笔记.
     image: images/Physics_nya.jpg
     list:
       -
