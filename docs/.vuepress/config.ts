@@ -12,7 +12,7 @@ export default defineUserConfig({
 
   head: [
     // 配置站点图标
-    ['link', { rel: 'icon', type: 'image/jpg', href: 'images/Physics_nya.jpg' }],
+    ['link', { rel: 'icon', type: 'image/jpg', href: 'images/cloudinwind_ava.jpg' }],
     ['link', { rel: 'stylesheet', type:'text/css', href: 'https://chinese-fonts-cdn.deno.dev/packages/lxgwwenkai/dist/LXGWWenKai-Regular/result.css' }],
     ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css', integrity: 'sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X', crossorigin: 'anonymous' }],
     ['script', { src: 'https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js', integrity: 'sha384-g7c+Jr9ZivxKLnZTDUhnkOnsh30B4H0rpLUpJ4jAIKs4fnJI+sEnkvrMWph2EDg4', crossorigin: 'anonymous' }],
@@ -87,7 +87,7 @@ export default defineUserConfig({
       },
 
       /* 本地搜索, 默认启用 */
-      // search: true,
+      // search: false,
 
       /**
        * Algolia DocSearch
@@ -193,7 +193,7 @@ export default defineUserConfig({
      */
     encrypt: {
       rules: {
-        'life/在科技楼的角落.md': 'pushichenyi',
+        'life/白鹿原.md': '123456',
       }
     },
   }),
@@ -202,8 +202,8 @@ export default defineUserConfig({
       hostname: 'https://cloudinwind.github.io/cloudinwindblog',
       atom: true,
       count: 100,
-      icon: 'images/Physics_nya.jpg',
-      image: 'images/Physics_nya.jpg',
+      icon: 'images/cloudinwind_ava.jpg',
+      image: 'images/cloudinwind_ava.jpg',
       devServer: true,
       devHostname: 'http://localhost:8080',
       atomOutputFilename: 'atom.xml',

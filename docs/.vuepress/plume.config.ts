@@ -6,7 +6,7 @@ import { notes } from './notes'
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-  logo: 'images/Physics_nya.jpg',
+  logo: 'images/cloudinwind_ava.jpg',
 
   appearance: true,  // 配置 深色模式
 
@@ -35,9 +35,9 @@ export default defineThemeConfig({
    * @see https://theme-plume.vuejs.press/config/basic/#profile
    */
   profile: {
-    avatar: 'images/Physics_nya.jpg',
-    name: '菲兹克斯喵',
-    description: 'This is physnya\'s personal blog',
+    avatar: 'images/cloudinwind_ava.jpg',
+    name: '小风',
+    description: 'This is xiaofeng\'s personal blog',
     // circle: true,
     // location: '',
     // organization: '',

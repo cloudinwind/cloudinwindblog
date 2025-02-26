@@ -10,8 +10,8 @@ createTime: 2025/02/16 10:09:31
 如果你想要申请友链，请仔细阅读友链的申请规则，在符合规则之后再来本页面的评论区提出申请.
 
 首先，请按如下格式提供信息：
-  * 博客名：菲兹克斯喵
-  * 简介：Eclipse first, the rest nowhere.
+  * 博客名：小风的代码世界
+  * 简介：在人生的道路上随风而动.
   * 链接：https://physnya.top
   * 图片：https://physnya.top/images/Physics_nya.jpg
 
