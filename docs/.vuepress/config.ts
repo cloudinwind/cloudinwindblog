@@ -138,7 +138,7 @@ export default defineUserConfig({
       //     rust: true,       // ::: rust-repl
       //     kotlin: true,     // ::: kotlin-repl
       //   },
-        imageSize: 'all', // 启用 自动填充 图片宽高属性，避免页面抖动
+        imageSize: true, // 启用 自动填充 图片宽高属性，避免页面抖动
       },
 
       /**
