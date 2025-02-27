@@ -28,3 +28,16 @@
 `gh-pages /root`
 
 然后点击保存
+
+
+## 3. 官网
+
+[官网指南](https://theme-plume.vuejs.press/demos/#%E5%8D%9A%E5%AE%A2)
+
+[官网案例](https://theme-plume.vuejs.press/demos/)
+
+## 补充：
+
+如果上述方法仍然失败，可参考：
+
+[](https://cunyu1943.github.io/tutorial/blog/20210826-vuepress.html)
