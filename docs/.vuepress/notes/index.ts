@@ -10,9 +10,5 @@ export const notes = defineNotesConfig({
   link: '/',
   notes: [
     review,
-    FeynmanIII,
-    Integral,
-    cosmos,
-    writing
   ]
 })
