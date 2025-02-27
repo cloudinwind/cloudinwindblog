@@ -1,7 +1,6 @@
 ---
 title: VSCode 配置 Java 环境
 slug: 1718178585772
-cover: https://github.com/cloudinwind/picx-images-hosting/raw/master/cloudinwindblog/image.4xuognphbp.webp
 categories:
   - 环境部署
 tags:

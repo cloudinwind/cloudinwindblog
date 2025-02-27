@@ -14,7 +14,6 @@ permalink: /posts/41khybtq/
 url: https://blog.csdn.net/guo_zhen_qian/article/details/132254406
 title: "Ubuntu22.04安装docker和docker-compose-CSDN博客"
 description: "文章浏览阅读9.7k次，点赞8次，收藏26次。ubuntu22.0.4系统安装docker，并修改默认镜像下载目录_ubuntu22.04安装docker"
-host: blog.csdn.net
 ```
 
 
