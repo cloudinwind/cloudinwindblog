@@ -3,6 +3,6 @@
 docs/.vuepress/.cache
 docs/.vuepress/.temp
 docs/.vuepress/dist
-
+docs/work/图床配置.md
 .DS_Store
 *.log
