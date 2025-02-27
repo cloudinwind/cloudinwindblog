@@ -1,7 +1,6 @@
 ---
 title: 服务器安装redis
 slug: fu-wu-qi-an-zhuang-redis
-cover: https://pic.imgdb.cn/item/66cd7246d9c307b7e9c3f356.png
 categories:
   - 环境部署
 tags:
