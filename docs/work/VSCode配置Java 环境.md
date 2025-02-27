@@ -1,6 +1,7 @@
 ---
 title: VSCode 配置 Java 环境
 slug: 1718178585772
+cover: https://github.com/cloudinwind/picx-images-hosting/raw/master/cloudinwindblog/image.4xuognphbp.webp
 categories:
   - 环境部署
 tags:
@@ -35,21 +36,16 @@ permalink: /posts/9a15hfer/
 
 ### 必须安装的三个插件
 
-![](https://pic.imgdb.cn/item/6669545ed9c307b7e96a0ff7.png)
-
-
 ### 相关配置
 
 进入设置页面（快捷键 `Ctrl + ,`）：
-
-![](https://pic.imgdb.cn/item/666954a5d9c307b7e96ab8ae.png)
 
 
 **设置 JDK 的路径：**
 
 输入框输入 `java` -> 定位到插件 `Language support for Java` -> 进入 `setting.json`
 
-![](https://pic.imgdb.cn/item/66695569d9c307b7e96c563d.png)
+
 
 在 `setting.json` 中设置 JDK 路径：
 
