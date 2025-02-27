@@ -16,7 +16,12 @@
 - plume.config.ts
 
 
-在 `docs/.vuepress` 添加文件夹 `dist`
+请修改 `docs/.vuepress/config.ts` 中的：
+
+```
+imageSize: true
+```
+从而不处理远程图片，只处理本地图片
 
 
 ## 3. 运行 Github Action
