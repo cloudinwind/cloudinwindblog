@@ -1,7 +1,11 @@
 ---
+title: 学习资料收集
 tags:
   - 生活
 sticky: 100
+permalink: /post/resource
+createTime: 2025/03/01 22:55:26
+
 ---
 
 这里用来记录一些常用的资源，
