@@ -1,11 +1,18 @@
 ---
 title: 学习资料收集
 tags:
-  - 生活
+  - 资源
 sticky: 100
-permalink: /post/resource
+permalink: /posts/resource
 createTime: 2025/03/01 22:55:26
-
+slug: xue-xi-zi-liao-shou-ji
+cover: ""
+categories:
+  - 学习
+halo:
+  site: http://162.14.74.139:8080
+  name: f89d3559-213c-4728-9158-fd87e041b9c7
+  publish: false
 ---
 
 这里用来记录一些常用的资源，
