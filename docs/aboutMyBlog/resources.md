@@ -3,7 +3,7 @@ title: 学习资料收集
 tags:
   - 资源
 sticky: 100
-permalink: /posts/resource
+permalink: /posts/resource/
 createTime: 2025/03/01 22:55:26
 slug: xue-xi-zi-liao-shou-ji
 cover: ""
@@ -134,4 +134,18 @@ halo:
 《操作系统导论》：[OSTEP](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/chinese)
 
 《深入理解计算机操作系统》：[CSAPP](https://hansimov.gitbook.io/csapp)
+
+
+
+## 4. 其他专业
+
+**统计学**：
+
+[统计学自学指南](https://xuankaiwang.github.io/)
+
+[清华大学数学课程学习指南](https://mathloveyou.github.io/)
+
+[清华统计](https://thu-stat-wiki.github.io/)
+
+[厦门大学统计](https://github.com/TheHiddenObserver/this-is-a-little-shelter?tab=readme-ov-file)
 
