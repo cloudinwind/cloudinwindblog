@@ -3,10 +3,9 @@ title: Java资源
 tags:
   - 资源
   - Java
-sticky: 100
-permalink: /posts/resource/
-createTime: 2025/03/01 22:55:26
-slug: xue-xi-zi-liao-shou-ji
+sticky: 90
+permalink: /posts/javaresource/
+createTime: 2025/03/03 22:55:26
 cover: ""
 categories:
   - 学习
