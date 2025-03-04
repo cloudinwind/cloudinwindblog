@@ -9,8 +9,12 @@ createTime: 2025/03/03 22:55:26
 cover: ""
 categories:
   - 学习
+slug: javazi-yuan
+halo:
+  site: http://162.14.74.139:8080
+  name: 2dbc99a8-53c8-471b-a8db-7ba08a499c26
+  publish: false
 ---
-
 
 ## Java 实战项目
 
@@ -19,7 +23,6 @@ categories:
 ### 牛客社区
 
 [B站地址](https://www.bilibili.com/video/BV1j1vPeHEwm/?share_source=copy_web&vd_source=7b952f197435de82efe1dabbfc57b22b)
-
 
 [百度网盘](https://pan.baidu.com/s/17H2Za8N3AEidyXGqxaxqLw?pwd=hxv5)
 
