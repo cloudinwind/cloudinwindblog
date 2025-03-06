@@ -4,14 +4,16 @@ categories:
   - work
 tags:
   - paper
-createTime: 2025/02/27 11:33:07
+createTime: 2025/03/04 11:33:07
 permalink: /posts/neurolode/
 ---
 
 > 原文：[Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
 
-> 讲解：
+> 文字讲解：
 > - [神经常微分方程 (Neural ODE)：入门教程](https://zhuanlan.zhihu.com/p/621912107)
+> - [Neural Ordinary Differential Equations神经常微分方程总结](https://zhuanlan.zhihu.com/p/658476990)
+> 视频讲解：
 > - [Neural ODE论文分享](https://www.bilibili.com/video/BV1Kc411n7SA/?share_source=copy_web&vd_source=7b952f197435de82efe1dabbfc57b22b)
 > - [Neural Ordinary Differential Equations 《神经常微分方程》]( https://www.bilibili.com/video/BV1WG41137gZ/?share_source=copy_web&vd_source=7b952f197435de82efe1dabbfc57b22b)
 
