@@ -6,13 +6,21 @@ tags:
   - paper
 createTime: 2025/03/04 11:33:07
 permalink: /posts/neurolode/
+slug: neurol-ode-yuan-wen-fan-yi
+cover: ""
+halo:
+  site: http://162.14.74.139:8080
+  name: 8586833d-d3ae-43e3-bfc8-c85d72bea307
+  publish: true
 ---
 
 > 原文：[Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
-
+> 
 > 文字讲解：
 > - [神经常微分方程 (Neural ODE)：入门教程](https://zhuanlan.zhihu.com/p/621912107)
 > - [Neural Ordinary Differential Equations神经常微分方程总结](https://zhuanlan.zhihu.com/p/658476990)
+> 
+> 
 > 视频讲解：
 > - [Neural ODE论文分享](https://www.bilibili.com/video/BV1Kc411n7SA/?share_source=copy_web&vd_source=7b952f197435de82efe1dabbfc57b22b)
 > - [Neural Ordinary Differential Equations 《神经常微分方程》]( https://www.bilibili.com/video/BV1WG41137gZ/?share_source=copy_web&vd_source=7b952f197435de82efe1dabbfc57b22b)
@@ -297,7 +305,7 @@ $$
 ------
 
 
-## 5.1 时间序列潜在ODE实验
+### 5.1 时间序列潜在ODE实验
 
 我们研究了潜在ODE模型在拟合和外推时间序列方面的能力。识别网络是一个具有25个隐藏单元的RNN。我们使用了一个4维的潜在空间。我们用一个包含20个隐藏单元的单隐藏层网络来参数化动态函数  $f$ 。计算  $p(x_{t_i} | z_{t_i})$  的解码器是另一个具有20个隐藏单元的单隐藏层神经网络。我们的基准是一个带有25个隐藏单元的递归神经网络，训练目标是最小化负高斯对数似然。我们训练了第二个版本的RNN，其输入与到下一个观察的时间差连接，以帮助处理不规则观察的RNN。
 
