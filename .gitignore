@@ -1,11 +1,16 @@
 **/node_modules
 
+
 docs/.vuepress/.cache
 docs/.vuepress/.temp
 docs/.vuepress/dist
 docs/.obsidian
 
+
+
 docs/work/图床配置.md
 .DS_Store
 *.log
+*.json
+*.yaml
 docs/work/CPR.md

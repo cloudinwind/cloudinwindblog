@@ -1,5 +1,5 @@
 ---
-title: 关于docker镜像
+title: docker镜像
 cover: https://pic.imgdb.cn/item/66a08708d9c307b7e9ef76f7.webp
 categories:
   - 环境部署
