@@ -5,6 +5,7 @@ import cosmos from './cosmos.ts'
 import writing from './writing.ts'
 import review from './review.ts'
 import project from './project.ts'
+import baoyan from './baoyan.ts'
 
 export const notes = defineNotesConfig({
   dir: 'notes',
@@ -12,5 +13,6 @@ export const notes = defineNotesConfig({
   notes: [
     review,
     project,
+    baoyan,
   ]
 })
