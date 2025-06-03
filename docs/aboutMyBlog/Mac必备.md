@@ -45,7 +45,13 @@ cover: ""
 
 > 正版购买途径
 
-5.[52mac](https://www.52mac.com/portal.php)
+5.[xclient](https://xclient.info/s/)
+
+> 相对比较全面
+
+6.[52mac](https://www.52mac.com/portal.php)
 
 > 作为补充，但是更新很少
+
+
 
