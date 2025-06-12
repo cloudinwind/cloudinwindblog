@@ -49,6 +49,10 @@ cover: ""
 
 > 相对比较全面
 
+6. [苹果软件盒子](https://www.macappbox.com)
+
+> 可以参考
+
 6.[52mac](https://www.52mac.com/portal.php)
 
 > 作为补充，但是更新很少
