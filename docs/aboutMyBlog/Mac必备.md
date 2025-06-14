@@ -53,7 +53,7 @@ cover: ""
 
 > 可以参考
 
-6.[52mac](https://www.52mac.com/portal.php)
+7.[52mac](https://www.52mac.com/portal.php)
 
 > 作为补充，但是更新很少
 
