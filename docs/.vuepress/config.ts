@@ -194,6 +194,7 @@ export default defineUserConfig({
     encrypt: {
       rules: {
         'life/白鹿原.md': '123456',
+        'work/环境配置全过程.md': 'scuimagesearch',
       }
     },
   }),
