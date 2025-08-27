@@ -1,5 +1,5 @@
 ---
-title: CSAPP 第三章 程序的机器级表示
+title: CSAPP
 createTime: 2025/08/27 12:03:01
 permalink: /posts/CSAPP_chapter3
 tags:
@@ -8,6 +8,7 @@ tags:
 - Linux内核
 ---
 
+# 第三章 程序的机器级表示
 
 ## 3.1 历史观点
 K ：1000
