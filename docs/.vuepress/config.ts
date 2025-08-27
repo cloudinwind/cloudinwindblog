@@ -195,6 +195,7 @@ export default defineUserConfig({
       rules: {
         'life/白鹿原.md': '123456',
         'work/环境配置全过程.md': 'scuimagesearch',
+        'work/CSAPP.md':'CSAPP',
       }
     },
   }),
