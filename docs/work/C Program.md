@@ -9,7 +9,7 @@ tags:
 ---
 
 
-推荐来源：[CSdiy, Introductory C Programming Specialization]https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/C/Duke-Coursera-Intro-C/
+推荐来源：[CSdiy, Introductory C Programming Specialization](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/C/Duke-Coursera-Intro-C/)
 
 官方课程地址：[Duke, Introductory C Programming Specialization](https://www.coursera.org/specializations/c-programming)
 
